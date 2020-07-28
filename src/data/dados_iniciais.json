@@ -1,0 +1,44 @@
+{
+  "categorias": [
+    {
+      "titulo": "Jacob Collier",
+      "cor": "#6BD1FF",      
+      "videos": [
+        {
+          "titulo": "He Won't Hold You (feat. Rapsody)",
+          "url": "https://www.youtube.com/watch?v=OnA5po3ASyI"
+        },
+        {
+          "titulo": "All I Need (with Mahalia & Ty Dolla $ign)",
+          "url": "https://www.youtube.com/watch?v=ue6g7SPSyAM"
+        },
+        {
+          "titulo": "Time Alone With You ft. Daniel Caesar",
+          "url": "https://www.youtube.com/watch?v=2qUCyW7ewPs"
+        },
+        {
+          "titulo": "Make Me Cry",
+          "url": "https://www.youtube.com/watch?v=Ra77qWfXv1c"
+        }
+      ]
+    },
+    {
+      "titulo": "Daniel Caesar",
+      "cor": "#00C86F",
+      "videos": [
+        {
+          "text": " Best Part (feat. H.E.R)",
+          "url": "https://www.youtube.com/watch?v=R1yqJisehhQ"
+        },
+        {
+          "titulo": "Get You ft. Kali Uchis",
+          "url": "https://www.youtube.com/watch?v=uQFVqltOXRg"
+        },
+        {
+          "titulo": "We Find Love / Blessed",
+          "url": "https://www.youtube.com/watch?v=Eicw_dIi2dw"
+        }
+      ]
+    }
+  ]
+}
