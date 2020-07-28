@@ -39,6 +39,24 @@
           "url": "https://www.youtube.com/watch?v=Eicw_dIi2dw"
         }
       ]
+    },
+    {
+      "titulo": "Daniel Caesar",
+      "cor": "#00C86F",
+      "videos": [
+        {
+          "text": " Best Part (feat. H.E.R)",
+          "url": "https://www.youtube.com/watch?v=R1yqJisehhQ"
+        },
+        {
+          "titulo": "Get You ft. Kali Uchis",
+          "url": "https://www.youtube.com/watch?v=uQFVqltOXRg"
+        },
+        {
+          "titulo": "We Find Love / Blessed",
+          "url": "https://www.youtube.com/watch?v=Eicw_dIi2dw"
+        }
+      ]
     }
   ]
 }
