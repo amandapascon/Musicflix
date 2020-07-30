@@ -31,9 +31,11 @@ export default function CadastroCategoria() {
   // ============
 
   useEffect(() => {
-    if(window.location.href.includes('localhost')) {
-      const URL = 'https://musicflix.herokuapp.com/categorias'; 
-      fetch(URL)
+    const URL = window.location.hostname.includes('localhost')
+    ? 'http://localhost:8080/categorias'
+    : 'https://musicflix.herokuapp.com/categorias'; 
+    
+    fetch(URL)
        .then(async (respostaDoServer) =>{
         if(respostaDoServer.ok) {
           const resposta = await respostaDoServer.json();
@@ -42,7 +44,7 @@ export default function CadastroCategoria() {
         }
         throw new Error('Não foi possível pegar os dados');
        })
-    }    
+        
   }, []);
 
   return (
