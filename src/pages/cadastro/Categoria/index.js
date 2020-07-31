@@ -18,7 +18,7 @@ function CadastroCategoria() {
   useEffect(() => {
     const URL_TOP = window.location.hostname.includes('localhost')
       ? 'http://localhost:8080/categorias'
-      : 'https://devsoutinhoflix.herokuapp.com/categorias';
+      : 'https://musicflix.herokuapp.com/categorias';
     // E a ju ama variáveis
     fetch(URL_TOP)
       .then(async (respostaDoServidor) => {
