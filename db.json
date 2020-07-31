@@ -2,12 +2,12 @@
     "categorias": [
       {
         "id": 1,
-        "titulo": "Daniel Caesar",
+        "titulo": "Jacob Collier",
         "cor": "#00C86F"
       },
       {
         "id": 2,
-        "titulo": "Jacob Collier",
+        "titulo": "Daniel Caesar",
         "cor": "#6BD1FF"
       },
       {
@@ -19,37 +19,37 @@
     "videos": [
       {
         "id": 1,
-        "categoriaId": 1,
+        "categoriaId": 2,
         "titulo": "Best Part (feat. H.E.R)",
         "url": "https://www.youtube.com/watch?v=R1yqJisehhQ"
       },
       {
         "id": 2,
-        "categoriaId": 1,
+        "categoriaId": 2,
         "titulo": "Get You ft. Kali Uchis",
         "url": "https://www.youtube.com/watch?v=uQFVqltOXRg"
       },
       {
         "id": 3,
-        "categoriaId": 1,
+        "categoriaId": 2,
         "titulo": "We Find Love / Blessed",
         "url": "https://www.youtube.com/watch?v=Eicw_dIi2dw"
         },
       {        
         "id": 4,
-        "categoriaId": 2,
+        "categoriaId": 1,
         "titulo": "He Won't Hold You (feat. Rapsody)",
         "url": "https://www.youtube.com/watch?v=OnA5po3ASyI"
       },
       {
         "id": 5,
-        "categoriaId": 2,
+        "categoriaId": 1,
         "titulo": "All I Need ",
         "url": "https://www.youtube.com/watch?v=ue6g7SPSyAM"
       },
       {
         "id": 6,
-        "categoriaId": 2,
+        "categoriaId": 1,
         "titulo": "Make Me Cry",
         "url": "https://www.youtube.com/watch?v=Ra77qWfXv1c"
       },
